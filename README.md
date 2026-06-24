@@ -1,4 +1,4 @@
-# DistillationToll
+# DistillationTool
 
 用于从大模型生成评测题的蒸馏工具。流程由 FastAPI 提供接口和静态页面，Celery 执行后台任务，LangGraph 编排核心生成链路，最终导出 Excel。
 
