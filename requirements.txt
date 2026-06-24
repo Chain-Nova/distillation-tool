@@ -1,0 +1,11 @@
+celery==5.4.0
+fastapi==0.115.6
+langchain-core==0.3.29
+langgraph==0.2.60
+openai==1.58.1
+openpyxl==3.1.5
+pydantic==2.10.4
+pydantic-settings==2.7.1
+python-dotenv==1.0.1
+redis==5.2.1
+uvicorn[standard]==0.34.0
